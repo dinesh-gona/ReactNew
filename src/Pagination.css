@@ -1,0 +1,14 @@
+.paginationBttns, .previousBttn, .nextBttn {
+    border:'';
+    color:blueviolet;
+}
+
+.previous, .next{
+    color:brown;
+    border-color: chartreuse;
+}
+
+.selected{
+    color:darkcyan;
+    font-weight: bolder;
+}

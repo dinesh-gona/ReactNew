@@ -1,0 +1,29 @@
+.Dropdown{
+    fill: #FFF;
+    stroke-width: 1px;
+    stroke: var(--mono-gray-3, #B5B5B5);
+    width: 21.875rem;
+    height: 3.5rem;
+    flex-shrink: 0;
+
+    box-sizing: border-box;
+}
+
+.icon{
+    width: 1.5rem;
+    height: 1.5rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+}
+
+.text{
+    color: var(--mono-gray-4, #505050);
+
+/* h4 */
+font-family: Roboto;
+font-size: 1.3125rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
