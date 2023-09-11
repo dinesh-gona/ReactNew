@@ -23,9 +23,10 @@ import DropdownSVG from './DropdownSVG';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-  
+  <BrowserRouter>
     <Dropdown/>
-  
+    <App2/>
+    </BrowserRouter>
  
 );
 
